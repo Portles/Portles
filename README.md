@@ -6,5 +6,4 @@ Currently working on 😳
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portles&show_icons=true&theme=radical)
 
-🙂‍↔️
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001208.5094258d3253460882fb6799438d2513.1856)](https://github.com/rayriffy/apple-music-github-profile)
